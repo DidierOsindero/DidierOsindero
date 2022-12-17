@@ -1,6 +1,6 @@
 # Didier Osindero || Junior Software Engineer
 
-Hi, I'm Didier, a full stack software engineer! The projects on my profile are all a result of where my curiosity has taken me! Enjoy 🤾🏾‍♂️
+Hi, I'm Didier, a full stack engineer! The projects on my profile are all a result of where my curiosity has taken me! Enjoy 🤾🏾‍♂️
 
 ## 🏗️ Featured projects
 <hr>
