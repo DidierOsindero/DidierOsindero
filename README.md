@@ -22,8 +22,12 @@ Hi, I'm Didier, a full stack software engineer! The projects on my profile are a
       <td><b>N/A</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
-   
-   
+    <tbody align="center">
+    <tr>
+      <td><a href="https://didier-to-do-list-frontend.netlify.app/" target="_blank"><b>To Do List<b></a></td>
+      <td><a href="https://github.com/DidierOsindero/to-do-list-front-end"><b>React, TypeScript</b></a></td>
+      <td><a href="https://github.com/DidierOsindero/to-do-list-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
+    </tr>
   </tbody>
 </table>
 
