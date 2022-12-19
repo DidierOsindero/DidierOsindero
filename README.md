@@ -1,6 +1,6 @@
-# Didier || Junior Software Engineer || Thinker || Learner 
+# Didier Osindero || Junior Software Engineer
 
-Hi, I'm Didier, a full stack software engineer! The projects on my profile are all a result of where my curiosity has taken me! Enjoy 🤾🏾‍♂️
+Hi, I'm Didier, a full stack engineer! The projects on my profile are all a result of where my curiosity has taken me! Enjoy 🤾🏾‍♂️
 
 ## 🏗️ Featured projects
 <hr>
@@ -37,13 +37,13 @@ Hi, I'm Didier, a full stack software engineer! The projects on my profile are a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DidierOsindero&count_private=true&show_icons=true&theme=midnight-purple&card_width=550)
 
-## 🖊️ Streak stats
+## 🔬 Streak stats
 
 <hr>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DidierOsindero&theme=midnight-purple)
 
-## 🧰 What I've been coding with
+## 👨🏾‍💻 What I've been coding with
 
 <hr>
 
