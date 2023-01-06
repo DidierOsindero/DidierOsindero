@@ -29,6 +29,13 @@ Hi, I'm Didier, a full stack engineer! The projects on my profile are all a resu
       <td><a href="https://github.com/DidierOsindero/to-do-list-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
     </tr>
   </tbody>
+   <tbody align="center">
+    <tr>
+      <td><a href="https://thought-forum.netlify.app/" target="_blank"><b>Thought Forum<b></a></td>
+      <td><a href="https://github.com/DidierOsindero/thoughtForum-fe"><b>React, TypeScript</b></a></td>
+      <td><a href="https://github.com/DidierOsindero/thoughtForum-be"><b>Express, Node.js, PostgreSQL</b></a></td>
+    </tr>
+  </tbody>
 </table>
 
 
