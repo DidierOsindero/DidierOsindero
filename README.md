@@ -15,6 +15,13 @@ Hi, I'm Didier, a full stack engineer! The projects on my profile are all a resu
     </tr>
   </thead>
   <tbody>
+   <tbody align="center">
+    <tr>
+      <td><a href="https://thought-forum.netlify.app/" target="_blank"><b>Thought Forum<b></a></td>
+      <td><a href="https://github.com/DidierOsindero/thoughtForum-fe"><b>React, TypeScript</b></a></td>
+      <td><a href="https://github.com/DidierOsindero/thoughtForum-be"><b>Express, Node.js, PostgreSQL</b></a></td>
+    </tr>
+  </tbody>
   <tbody align="center">
     <tr>
       <td><a href="https://didier-countries-app.netlify.app/" target="_blank"><b>Countries Quiz App<b></a></td>
@@ -27,13 +34,6 @@ Hi, I'm Didier, a full stack engineer! The projects on my profile are all a resu
       <td><a href="https://didier-to-do-list-frontend.netlify.app/" target="_blank"><b>To Do List<b></a></td>
       <td><a href="https://github.com/DidierOsindero/to-do-list-front-end"><b>React, TypeScript</b></a></td>
       <td><a href="https://github.com/DidierOsindero/to-do-list-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
-    </tr>
-  </tbody>
-   <tbody align="center">
-    <tr>
-      <td><a href="https://thought-forum.netlify.app/" target="_blank"><b>Thought Forum<b></a></td>
-      <td><a href="https://github.com/DidierOsindero/thoughtForum-fe"><b>React, TypeScript</b></a></td>
-      <td><a href="https://github.com/DidierOsindero/thoughtForum-be"><b>Express, Node.js, PostgreSQL</b></a></td>
     </tr>
   </tbody>
 </table>
