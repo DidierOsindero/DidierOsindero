@@ -77,6 +77,7 @@ Hi, I'm Didier, a full stack engineer! The projects on my profile are all a resu
 
 ### Email: didierosindero@gmail.com
 ### LinkedIn : <a href= "https://www.linkedin.com/in/didier-osindero"> https://www.linkedin.com/in/didier-osindero </a>
+### Portfolio: <a href= "https://didier-osindero-portfolio.netlify.app"> https://didier-osindero-portfolio.netlify.app/ </a>
 <!--
 **DidierOsindero/DidierOsindero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
