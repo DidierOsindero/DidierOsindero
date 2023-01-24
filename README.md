@@ -43,6 +43,14 @@ Hi, I'm Didier, a full stack engineer! The projects on my profile are all a resu
       <td><a href="https://github.com/DidierOsindero/to-do-list-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
     </tr>
   </tbody>
+      
+      <tbody align="center">
+    <tr>
+      <td><a href="https://academy-didierosindero-tv-shows.netlify.app/" target="_blank"><b>TV Shows Library<b></a></td>
+      <td><a href="https://github.com/DidierOsindero/tv-shows"><b>React, TypeScript</b></a></td>
+      <td><b>N/A</b></a></td>
+    </tr>
+  </tbody>
 </table>
 
 ## 💻 GitHub Summary
