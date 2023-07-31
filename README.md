@@ -15,6 +15,13 @@ Hi, I'm Didier, a full stack engineer! The projects on my profile are all a resu
     </tr>
   </thead>
   <tbody>
+    <tbody align="center">
+    <tr>
+      <td><a href="https://free-sudoku-online.netlify.app/" target="_blank"><b>Sudoku<b></a></td>
+      <td><a href="https://github.com/DidierOsindero/sudoku-fe"><b>React, TypeScript</b></a></td>
+      <td><b>N/A</b></a></td>
+    </tr>
+  </tbody>
    <tbody align="center">
     <tr>
       <td><a href="https://thought-forum.netlify.app/" target="_blank"><b>Thought Forum<b></a></td>
