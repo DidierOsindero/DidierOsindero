@@ -8,9 +8,8 @@ Hi, I'm Didier, a software engineer! The projects on my profile are all a result
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Frontend</b></td>
-      <td><b>Backend</b></td>
+      <td><b>Interesting Projects</b></td>
+      <td><b>Source Code</b></td>
       <!--<td><b>Documentation</b></td>-->
     </tr>
   </thead>
@@ -19,50 +18,15 @@ Hi, I'm Didier, a software engineer! The projects on my profile are all a result
     <tr>
       <td><a href="https://free-sudoku-online.netlify.app/" target="_blank"><b>Sudoku<b></a></td>
       <td><a href="https://github.com/DidierOsindero/sudoku-fe"><b>React, TypeScript</b></a></td>
-      <td><b>N/A</b></a></td>
-    </tr>
-  </tbody>
-   <tbody align="center">
-    <tr>
-      <td><a href="https://thought-forum.netlify.app/" target="_blank"><b>Thought Forum<b></a></td>
-      <td><a href="https://github.com/DidierOsindero/thoughtForum-fe"><b>React, TypeScript</b></a></td>
-      <td><a href="https://github.com/DidierOsindero/thoughtForum-be"><b>Express, Node.js, PostgreSQL</b></a></td>
     </tr>
   </tbody>
   <tbody align="center">
     <tr>
-      <td><a href="https://didier-countries-app.netlify.app/" target="_blank"><b>Countries Quiz App<b></a></td>
+      <td><a href="https://didier-wordle-clone.netlify.app/" target="_blank"><b>Wordle Clone<b></a></td>
       <td><a href="https://github.com/DidierOsindero/countriesApp"><b>React, TypeScript</b></a></td>
-      <td><b>N/A</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
-    </tr>
-    <tbody align="center">
-    <tr>
-      <td><a href="https://didier-maria-pastebin.netlify.app" target="_blank"><b>Paste Bin<b></a></td>
-      <td><a href="https://github.com/DidierOsindero/paste-bin-frontend"><b>React, TypeScript</b></a></td>
-      <td><a href="https://github.com/DidierOsindero/paste-bin-api"><b>Express, Node.js, PostgreSQL</b></a></td>
-    </tr>
-  </tbody>
-    <tbody align="center">
-    <tr>
-      <td><a href="https://didier-to-do-list-frontend.netlify.app/" target="_blank"><b>To Do List<b></a></td>
-      <td><a href="https://github.com/DidierOsindero/to-do-list-front-end"><b>React, TypeScript</b></a></td>
-      <td><a href="https://github.com/DidierOsindero/to-do-list-backend"><b>Express, Node.js, PostgreSQL</b></a></td>
-    </tr>
-  </tbody>   
-    <tbody align="center">
-    <tr>
-      <td><a href="https://academy-didierosindero-tv-shows.netlify.app/" target="_blank"><b>TV Shows Library<b></a></td>
-      <td><a href="https://github.com/DidierOsindero/tv-shows"><b>React, TypeScript</b></a></td>
-      <td><b>N/A</b></a></td>
-    </tr>
-  </tbody>
+    </tr>  
 </table>
-
-## 💻 GitHub Summary
-<hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DidierOsindero&count_private=true&show_icons=true&theme=midnight-purple&card_width=550)
 
 ## 👨🏾‍💻 What I've been coding with
 
